@@ -1,5 +1,5 @@
 # Changelog
 
-## 0.2.0
+## 0.1.0
 
-First release 🎉. Thanks to @tempname11 for the npm package name.
+Forked `react-machine` and made some iniitial API tweaks.
